@@ -1,0 +1,77 @@
+    .carousel-inner img {
+    width: 100%;
+    height: 100%;
+    }
+    .jumbotron img{
+    position: relative;
+    float:left;
+    height: 88px;
+    width: 180px;    
+    }
+    .jumbotron{
+    padding-bottom: 0;
+    padding-top:0;
+    font-family: "Merienda",sans-serif;
+    color: midnightblue;
+    }
+    .modal-body p{
+    text-align: justify;
+    }
+    .col-sm-4 h1,h3{
+    font-family: "Merienda",sans-serif;
+    color:forestgreen;
+    }
+    .col-sm-4 p ,button
+    {
+    font-family: "Merienda",sans-serif;
+    color:blue;
+    }
+    .col-sm-12
+    {
+    font-family: "Merienda",sans-serif;
+    color: forestgreen;
+    }
+    .modal h4{
+    font-family: "Merienda",sans-serif;
+    color: forestgreen;
+    }
+    footer{
+    clear:both;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-top: 2px solid #d1d1d1;
+    padding-top: 15px;
+    color: forestgreen;
+    font-family: "Merienda",sans-serif;
+    }
+    footer p{
+    float: left;
+    margin-left: 20px;
+    }
+    footer a{
+    float: right;
+    text-decoration: none;
+    }
+    .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    }
+    .fa-facebook {
+    background: #3B5998;
+    color: black;
+    }
+    .fa-youtube {
+    background: #BB0000;
+    color: black;
+    }
+    .fa-linkedin{
+    background: #3B5998;
+    color: white;
+    }
+    .col-sm-12 blockquote{
+    font-family: "Merienda", sans-serif;
+    color: darkred;
+    }
