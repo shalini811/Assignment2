@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0021)http://www.psvpec.in/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="description" content="Welcome to Prince Shri Venkateshwara Engineering College">
+<meta name="keywords" content="prince, venkateshwara, shri, padmavathy, engineering, college, courses, staff, department, placement, campus, top 10 colleges, best college">
+
+<meta content="venkat.jpg">
+<title>Prince Shri Venkateshwara Padmavathy Engineering College</title>
+<link rel="stylesheet" type="text/css" href="./greencampus_files/style.css">
+ 
+<link rel="icon" href="http://www.psvpec.in/venki.jpeg" type="image/icon"> 
+<link rel="stylesheet" href="./greencampus_files/main.css">
+<link type="text/css" href="./greencampus_files/menu.css" rel="stylesheet">
+	<!--<script type="text/javascript" src="js/menu.js"></script>-->
+	
+	
+	<script type="text/javascript" async="" src="./greencampus_files/ga.js.download"></script><script type="text/javascript" src="./greencampus_files/moveobj.js.download"> </script>
+<script type="text/javascript">
+
+
+/***********************************************
+* Floating image script- By Virtual_Max (http://www.geocities.com/siliconvalley/lakes/8620)
+* Modified by Dynamic Drive for various improvements
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Step 1: Define unique variable names depending on number of flying images (ie:3):
+var flyimage1, flyimage2, flyimage3
+
+function pagestart(){
+//Step 2: Using the same variable names as 1), add or delete more of the below lines (60=width, height=80 of image):
+ flyimage1=new Chip("flyimage1",47,68);
+//flyimage2=new Chip("flyimage2",47,68);
+
+
+//Step 3: Using the same variable names as 1), add or delete more of the below lines:
+movechip("flyimage1");
+//movechip("flyimage2");
+
+}
+
+if (window.addEventListener)
+window.addEventListener("load", pagestart, false)
+else if (window.attachEvent)
+window.attachEvent("onload", pagestart)
+else if (document.getElementById)
+window.onload=pagestart
+
+</script>
+
+
+    </head>
+<body style="color:#CCCCCC; min-width:1024px;">
+
+<div id="flyimage1" style="position: absolute; left: 748.27px; top: 448.702px;">
+<a href="http://www.psvpec.in/"><img src="./greencampus_files/cc.png" border="0"></a>
+</div>
+<div id="flyimage2" style="position:absolute; left: -500px; width:150; height:\50;">
+<a href="http://www.psvpec.in/bus%20route%20new.pdf"><img src="./greencampus_files/SchoolBus.png" border="0"></a>
+</div>
+<div id="boxes">
+
+  <div style="top: 105px; left: 264px; display: none;" id="dialog" class="window"> <p style="color:#990000; font-weight:600; font:&#39;MS Serif&#39;, &#39;New York&#39;, serif; font-size:20px">
+  
+  </p>  
+  
+  <div id="lorem">
+  
+  <!--<table width="100%" border="2 solid" style="text-align:center; font-weight:500; margin-top:40px; border-radius:5px; border-color:#0099FF;"><caption style="background-color:#999999; font-weight:600; color:#FFFFFF">Anna University Examination- YearWise Results</caption>
+	  <tr><th>Year Of Examination</th><th>Overall Pass Percentage</th><th> Rank Held</th></tr>
+	  <tr ><td>NOV/DEC 2014</td><td>89.24 %</td><td>Not yet released </td></tr>
+	   <tr><td>NOV/DEC 2013</td><td> 73.02 %</td><td>25 <sup>th</sup> </td></tr> 
+        <tr><td>APR/MAY 2013</td><td>81.72 %</td><td>24 <sup>th</sup> </td></tr>
+         <tr><td>NOV/DEC 2012</td><td>70.11 %</td><td>15 <sup>th</sup> </td></tr>
+	 </table>-->
+  <!-- <p style="font:'Monotype Corsiva'; font-weight:600; font-size:30px; color:#FFFFFF; float:right; border:2px groove #309; border-radius:10px; background-color:#69C; padding:5px; margin-right:10px;">Counselling <br/> Code: 1414</p>-->
+    </div>
+</div>
+
+<div style="width: 1028px; font-size: 32pt; color: rgb(204, 204, 204); height: 1096px; opacity: 0.9; display: none;" id="mask"></div>
+</div>
+<div align="center" width="100%" height="1024px"> <!--whole window start-->
+  <div style="height:110px; width:100%; " align="left"> <img src="./greencampus_files/prince1PSVPEC.jpg" width="8%" height="100px"><img src="./greencampus_files/logo2.png" width="42%" height="100px"><img src="./greencampus_files/ISO-Certified-Ribbon.png" width="11%" height="100px"><img src="./greencampus_files/higher_edu_r.png" width="18%" height="90px"> <img src="./greencampus_files/NODAL CENTERE.jpg" width="18%" height="90px">
+ 
+  </div>
+ 
+  <!--/*<div style="width:1024px; height:30px; background-image:url(images/menubgi.jpg);">*/-->
+  <div style="width:100%; height:40px; background:#700310;"> <!--menu bar start-->
+
+   <div id="menu">
+  
+		<ul class="menu" style="left:15px;">
+			<li><a href="http://www.psvpec.in/home%20frame.html" target="iframe1" class="parent"><span>Home</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;"> </li>
+             
+            <li><a href="http://www.psvpec.in/#"><span>Administration</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+            <div><ul>
+			<li><a href="http://www.psvpec.in/aboutus/aboutus1.html" target="iframe1"><span>About Us</span></a>           </li>
+					<li><a href="http://www.psvpec.in/eligibility%20frame.html" target="iframe1" class="parent"><span>Eligibility Criteria</span></a></li>
+                    <li><a href="http://www.psvpec.in/admission%20procedure%20frame.html" target="iframe1" class="parent"><span>Admission Procedure</span></a></li>
+                    <li><a href="http://www.psvpec.in/feestructure.html" target="iframe1" class="parent"><span>Fee Structure</span></a></li>
+					<li><a href="http://www.psvpec.in/Student&#39;s_code_of_conduct.pdf" target="_blank" class="parent"><span>Student's Code of Conduct</span></a></li>
+					<li><a href="http://www.psvpec.in/commitee.html" target="iframe1" class="parent"><span>Committees</span></a></li>
+                    </ul>
+                    </div>
+             </li>
+             <li><a href="http://www.psvpec.in/#"><span>Departments</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+				<div><ul>
+					<li><a href="http://www.psvpec.in/#" class="parent"><span>UG</span></a>
+						<div style="text-align:center;"><ul>
+						<li><a href="http://www.psvpec.in/IT/indexit.html" target="_blank"><span>Information Technology(IT)</span></a></li>
+						<li><a href="http://www.psvpec.in/cse/indexcse.html" target="_blank"><span>Computer Science and Engineering(CSE)</span></a></li>
+                        <li><a href="http://www.psvpec.in/mech/indexmech.html" target="_blank"><span>Mechanical</span></a></li>
+                        <li><a href="http://www.psvpec.in/civil/indexcivil.html" target="_blank"><span>Civil</span></a></li>
+                        <li><a href="http://www.psvpec.in/ece/indexece.html" target="_blank"><span>Electronics and Communication Engineering(ECE)</span></a></li>
+                        <li><a href="http://www.psvpec.in/eee/indexeee.html" target="_blank"><span>Electrical and Electronics Engineering(EEE)</span></a></li>
+						
+                        
+						</ul></div>
+					</li>
+					<li><a href="http://www.psvpec.in/#" class="parent"><span>PG</span></a>
+						<div><ul>
+                        <li><a href="http://www.psvpec.in/ece/indexece.html" target="_blank"><span>M.E(Applied Electronics)</span></a></li>
+                        <li><a href="http://www.psvpec.in/mech/indexmech.html" target="_blank"><span>M.E Computer Aided Design(CAD)</span></a></li>
+						
+						<li><a href="http://www.psvpec.in/MBA/indexmba.html" target="_blank"><span>Master of Business Administration(MBA)</span></a></li>
+						</ul></div>
+					</li>
+                    <li><a href="http://www.psvpec.in/courses.html" class="parent" target="iframe1"><span>All Courses</span></a></li>
+					 <li><a href="http://www.psvpec.in/staff&#39;s_code_of_conduct.pdf" class="parent" target="_blank"><span>Staff's Code of Conduct</span></a></li>
+					
+				</ul></div>
+			</li>
+           
+             <li><a href="http://www.psvpec.in/#"><span>Placements</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+                <div>   <ul>
+					<li><a href="http://www.psvpec.in/placementtraining.html" target="iframe1" class="parent"><span>Training</span></a></li>
+                    <li><a href="http://www.psvpec.in/placement/bplaced.html" target="iframe1" class="parent"><span>Placement Records</span></a></li>
+                       
+					   
+                    </ul>
+                </div>
+            </li>
+			
+            <li><a href="http://www.psvpec.in/facilities/facilityhome.html" target="iframe1"><span>Facilities</span></a> <img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">              </li>
+			     <li><a href="http://www.psvpec.in/#" target="_blank"><span>E-Library</span></a>   <img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+				 
+				 
+				  <div>   <ul>
+					<li><a href="http://www.psvpec.in/eopac/DisplayBooks.php" target="_blank" class="parent"><span>OPAC</span></a></li>
+					<li><a href="http://164.100.247.17/index.html" target="_blank" class="parent"><span>DELNET</span></a></li>
+                   <li><a href="http://www.psvpec.in/e-content.html" class="parent" target="iframe1"><span>E-Content</span></a></li>
+				    <li><a href="http://nptel.ac.in/course.php" class="parent" target="iframe1"><span>NPTEL</span></a></li>
+					   <li><a href="https://ndl.iitkgp.ac.in/" class="parent" target="iframe1"><span>NDL</span></a></li>
+				   <li><a href="http://www.onlinenewspapers.com/india.htm" class="parent" target="iframe1"><span>News</span></a></li>
+                       
+					
+                    </ul>
+                </div>
+				 
+				             </li>
+				 
+				  <li><a href="http://www.psvpec.in/iqac.html"><span>IQAC</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+				<!--<div ><ul>
+					
+					<li><a href="#" class="parent"><span>SSR</span></a>
+						<div><ul>
+                        <li><a href="iqac.html" target="iframe1"><span>CRITERIA</span></a></li>
+                      
+						</ul></div>
+					</li>
+						<li><a href="#" class="parent"><span>Stake Holder's Feedback</span></a>
+						
+					</li>
+                 
+				</ul></div>-->
+			</li>
+			   <li><a><span>Research</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+			   <div>   <ul>
+					<li><a href="http://www.psvpec.in/Code_Of_Ethics_In_Research.pdf" target="_blank" class="parent"><span>Code of Ethics</span></a></li>
+					<li><a href="http://www.psvpec.in/Industry-Academia-Activities.pdf" target="_blank" class="parent"><span>Industry-Academia Activities</span></a></li>
+					<li><a href="http://www.psvpec.in/mous.html" target="_blank" class="parent"><span>MOUs</span></a></li>
+					 <li><a href="http://www.psvpec.in/jcres/journal.html" target="_blank"><span>Journal</span></a></li> 
+                    </ul>
+                </div>
+               </li>
+			   <li><a href="http://www.psvpec.in/clubs.html" target="iframe1"><span>Co-Curricular</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;"></li>
+               <li><a href="http://www.psvpec.in/institute%20frame.html" target="iframe1"><span>Institutions</span></a> <img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">              </li>
+			   <li><a href="http://www.psvpec.in/alumni/alumni.php" target="iframe1"><span>Alumni</span></a> <img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">              </li>
+			
+           
+           <li><a><span>Campus Life</span></a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" align="middle" width="2px" height="18px" style="background-color:#CCCCCC; margin-top:7px;">
+		   
+		     <div><ul>
+                     <li><a href="http://www.psvpec.in/glgallery.html" class="parent" target="iframe1"><span>College Events</span></a></li>
+					 <li><a href="http://www.psvpec.in/phgallery.html" target="iframe1"><span>Gallery</span></a></li>
+                    </ul>
+                </div>
+		   </li>
+            
+            <li class="last"><a href="http://www.psvpec.in/contact%20us%20frame.html" target="iframe1"><span>Contact Us</span></a></li>
+		</ul>
+	</div>
+		
+</div><!--menu bar end-->
+  <div align="center">
+  <iframe name="iframe1" id="iframe1" src="./greencampus_files/home frame.html" scrolling="auto" style="border:0;" width="100%" height="800px"> </iframe>
+  
+</div>
+ <div style="width:100%; height:90px; margin-top:0px; background:#700310;" align="center"><!--site map start-->
+ 
+ 
+    <div style="padding-left:20px; padding-top:20px; "> <font face="Arial, Helvetica, sans-serif" style=" font-weight:bold; "><a href="http://www.psvpec.in/index.html" style="text-decoration:none;"> <font style="color:#FFFFFF">Home</font> </a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" width="5px" height="13px" style="background-color:#CCCCCC"> <a href="http://www.psvpec.in/aboutus/aboutus1.html" target="iframe1" style="text-decoration:none;"><font style="color:#FFFFFF">About Us</font> </a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" width="5px" height="13px" style="background-color:#CCCCCC">
+     <a href="http://www.psvpec.in/admission%20procedure%20frame.html" target="iframe1" style="text-decoration:none;"><font style="color:#FFFFFF">Admissions</font> </a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" width="5px" height="13px" style="background-color:#CCCCCC">
+     <a href="http://www.psvpec.in/courses.html" target="iframe1" style="text-decoration:none;"><font style="color:#FFFFFF">Courses</font> </a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" width="5px" height="13px" style="background-color:#CCCCCC"> <a href="http://www.psvpec.in/facilities/facility4.html" target="iframe1" style="text-decoration:none;"><font style="color:#FFFFFF;">Facilities</font> </a><img src="./greencampus_files/112718-glowing-purple-neon-icon-alphanumeric-vertical-line.png" width="5px" height="13px" style="background-color:#CCCCCC"><a href="http://www.psvpec.in/contact%20us%20frame.html" target="iframe1" style="text-decoration:none;"><font style="color:#FFFFFF">Contact us</font> </a></font>
+	 
+	
+	 <br> <div style="float:right;">
+	  
+	 <!-- Begin Web-Stat code v 6.2 -->
+<span id="wts1495363">&nbsp;<script type="text/javascript" async="" src="./greencampus_files/log6_2.js.download"></script></span><script type="text/javascript">
+var wts=document.createElement('script');wts.type='text/javascript';
+wts.async=true;wts.src=('https:'==document.location.protocol?'https://server2':'http://lb')
++'.web-stat.com/1/1495363/log6_2.js';
+document.getElementById('wts1495363').appendChild(wts);
+</script><noscript><a href="http://www.web-stat.com">
+<img src="//server2.web-stat.com/6/1/1495363.gif" 
+style="border:0px;" alt=""></a></noscript>
+<!-- End Web-Stat code v 6.2 -->
+
+</div>
+
+ 
+      <p style="font-weight:600; color:#FFFF99;"> Designed &amp; Developed by Prince Shri Venkateshwara Padmavathy Engineering College </p>
+	  <div>
+	  <span style=" margin-left:300px; float:left; margin-top:10px;font-size:26px; color:#003366; font-family:monotype corsiva; font-weight:bold;"><img src="./greencampus_files/counter.php" style="margin-left:20px; " title="" alt="" border="0"> VISITORS</span>
+	  
+<span style=" margin-left:100px; color:#400040;margin-top:20px; float:left; font-size:20px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;">Follow Us On: </span><a href="https://www.facebook.com/Prince-Group-of-Institutions-1804080129883545/" target="_blank"><img src="./greencampus_files/facebook-logo.png" style="float:left;" width="40" height="50"></a>
+
+    </div>
+	
+	</div>
+	
+	
+  </div><!--site map end-->
+
+</div>
+<script src="./greencampus_files/jquery.js.download"></script> 
+<script src="./greencampus_files/main.js.download"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<span id="wtstimer1495363" style="display: none;"></span><script type="text/javascript" src="./greencampus_files/count6.pl.download"></script></body></html>
